@@ -1,0 +1,50 @@
+10:36:04 PM  [main] 	Initializing Control Panel
+10:36:04 PM  [main] 	Windows Version:  Enterprise  64-bit
+10:36:04 PM  [main] 	XAMPP Version: ???
+10:36:04 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:36:04 PM  [main] 	You are not running with administrator rights! This will work for
+10:36:04 PM  [main] 	most application stuff but whenever you do something with services
+10:36:04 PM  [main] 	there will be a security dialogue or things will break! So think 
+10:36:04 PM  [main] 	about running this application with administrator rights!
+10:36:04 PM  [main] 	XAMPP Installation Directory: "c:\users\user\downloads\"
+10:36:04 PM  [main] 	Checking for prerequisites
+10:36:04 PM  [main] 	All prerequisites found
+10:36:04 PM  [main] 	Initializing Modules
+10:36:04 PM  [Apache] 	Problem detected: Apache Not Found!
+10:36:04 PM  [Apache] 	Disabling Apache buttons
+10:36:04 PM  [Apache] 	Run this program from your XAMPP root directory!
+10:36:04 PM  [Apache] 	Problem detected!
+10:36:04 PM  [Apache] 	Port 80 in use by "C:\xampp\apache\bin\httpd.exe" with PID 8752!
+10:36:04 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:36:04 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:36:04 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:36:04 PM  [Apache] 	Problem detected!
+10:36:04 PM  [Apache] 	Port 443 in use by "C:\xampp\apache\bin\httpd.exe" with PID 8752!
+10:36:04 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:36:04 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:36:04 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:36:04 PM  [mysql] 	Problem detected: MySQL Not Found!
+10:36:04 PM  [mysql] 	Disabling MySQL buttons
+10:36:04 PM  [mysql] 	Run this program from your XAMPP root directory!
+10:36:04 PM  [mysql] 	Problem detected!
+10:36:04 PM  [mysql] 	Port 3306 in use by "C:\xampp\mysql\bin\mysqld.exe"!
+10:36:04 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10:36:04 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10:36:04 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10:36:04 PM  [filezilla] 	Problem detected: FileZilla Not Found!
+10:36:04 PM  [filezilla] 	Disabling FileZilla buttons
+10:36:04 PM  [filezilla] 	Run this program from your XAMPP root directory!
+10:36:04 PM  [mercury] 	Problem detected: Mercury Not Found!
+10:36:04 PM  [mercury] 	Disabling Mercury buttons
+10:36:04 PM  [mercury] 	Run this program from your XAMPP root directory!
+10:36:04 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+10:36:04 PM  [Tomcat] 	Disabling Tomcat buttons
+10:36:04 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+10:36:04 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+10:36:04 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+10:36:04 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+10:36:04 PM  [main] 	Starting Check-Timer
+10:36:04 PM  [main] 	Control Panel Ready
+10:39:27 PM  [main] 	Deinitializing Modules
+10:39:27 PM  [main] 	Deinitializing Control Panel
+
